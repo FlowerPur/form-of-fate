@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346b23a430a83e8479f6ba492be69445, type: 3}
+  m_Name: TextButtonAnimatorSettings
+  m_EditorClassIdentifier: Assembly-CSharp::TextButtonAnimatorSettings
+  <Sprites>k__BackingField:
+  - {fileID: 4329407632164072968, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: 562139530, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -757704448, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1501207774, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: 1623148840, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: 250344800, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -10911994, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -983727960, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1747417391, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1294072469, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -386995360, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1779635864, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1065519130, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  <DisabledAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: 0
+    <SpriteIndex>k__BackingField: 0
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <TextFontSizeMaxOffset>k__BackingField: 0
+    <TextFontSizeMaxOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+  <NormalAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: 0
+    <SpriteIndex>k__BackingField: 4
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <TextFontSizeMaxOffset>k__BackingField: 0
+    <TextFontSizeMaxOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+  <HoverAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: 3
+    <SpriteIndex>k__BackingField: 8
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+    <TextFontSizeMaxOffset>k__BackingField: 1
+    <TextFontSizeMaxOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+  <PressedAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: -3
+    <SpriteIndex>k__BackingField: 12
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9
+    <TextFontSizeMaxOffset>k__BackingField: -1
+    <TextFontSizeMaxOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9

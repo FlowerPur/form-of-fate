@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f0c0d8888fd88b44192a3ab3fe537976
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _hoverAudioClip: {fileID: 8300000, guid: ec4332f043be1aa4e9ee5bce1b668acc, type: 3}
+  - _pressedAudioClip: {fileID: 8300000, guid: a4a314d8fc29a24428386bca9db3eb07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

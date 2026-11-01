@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6696f0c4f0b3de488287ffbc638ce4b, type: 3}
+  m_Name: SliderAnimatorSettings
+  m_EditorClassIdentifier: Assembly-CSharp::SliderAnimatorSettings
+  <Sprites>k__BackingField:
+  - {fileID: 1623148840, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: 250344800, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -10911994, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -983727960, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1747417391, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1294072469, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -386995360, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1779635864, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  - {fileID: -1065519130, guid: dcb63867561f1f743884fd6f0b29867c, type: 3}
+  <FillSprites>k__BackingField:
+  - {fileID: -2712861174066297014, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: 1488346907, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: -1722539301, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: 960120275, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: -84589901, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: -1970265972, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: -60066946, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: 633379624, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  - {fileID: 1738061935, guid: 2e7926fc7b24ab94b98f6fa424c86d1d, type: 3}
+  <NormalAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: 0
+    <SpriteIndex>k__BackingField: 0
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+    <FillSpriteIndex>k__BackingField: 0
+    <FillSpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.25
+      <Ease>k__BackingField: 9
+  <HoverAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: 3
+    <SpriteIndex>k__BackingField: 4
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+    <FillSpriteIndex>k__BackingField: 4
+    <FillSpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.2
+      <Ease>k__BackingField: 9
+  <PressedAnimationSettings>k__BackingField:
+    <SizeOffset>k__BackingField: -3
+    <SpriteIndex>k__BackingField: 8
+    <SizeOffsetTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9
+    <FillSpriteIndex>k__BackingField: 8
+    <FillSpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 0.1
+      <Ease>k__BackingField: 9

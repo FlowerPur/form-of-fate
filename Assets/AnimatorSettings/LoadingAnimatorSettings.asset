@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b05a8517b0f1abf4cb78142fa25e720b, type: 3}
+  m_Name: LoadingAnimatorSettings
+  m_EditorClassIdentifier: Assembly-CSharp::LoadingAnimatorSettings
+  <AnimationSettings>k__BackingField:
+    <SpriteIndex>k__BackingField: 7
+    <SpriteIndexTweenSettings>k__BackingField:
+      <Duration>k__BackingField: 1
+      <Ease>k__BackingField: 1
+  <Sprites>k__BackingField:
+  - {fileID: -2149457483992826347, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: -1134032105938053371, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: -5715818429344116891, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: -1398520927707081561, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: 6709918381649644343, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: 1314041563905344812, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: -8132636380989457697, guid: a5191996549330d489c4bce49b46d29c, type: 3}
+  - {fileID: 6250448747526980809, guid: a5191996549330d489c4bce49b46d29c, type: 3}
